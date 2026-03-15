@@ -5,10 +5,6 @@ import java.io.IOException;
 
 import javax.imageio.ImageIO;
 
-import java.io.File;
-import java.io.IOException;
-
-import javax.imageio.ImageIO;
 
 class Level4 extends Level {
     public void initLevel() {
